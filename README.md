@@ -2,9 +2,9 @@
 Brainfuckの派生言語 綾波型BFです。
 クソ言語なのでお遊び程度に
 
-#require
+# require
 *ruby
 *r-fxxk
 
-#license
+# license
 このソフトウェアは、MITライセンスの元公開されています。詳しくはLICENSE.txtをご覧ください。
