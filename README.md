@@ -7,4 +7,4 @@ Brainfuckの派生言語 綾波型BFです。
 * r-fxxk
 
 # license
-このソフトウェアは、MITライセンスの元公開されています。詳しくはLICENSE.txtをご覧ください。
+このソフトウェアは、MITライセンスの元公開されています。詳しくはLICENSEをご覧ください。
